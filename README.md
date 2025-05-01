@@ -1,5 +1,5 @@
 ## Future Projects
 - earth-x
-- baghead (clothes)
+- baghead
 - gameges (parent of [cymages](https://constanthing.github.io/cymages))
-- affares 
+- zook (typing)
